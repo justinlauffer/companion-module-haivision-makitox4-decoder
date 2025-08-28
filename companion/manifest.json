@@ -2,7 +2,7 @@
 	"id": "haivision-makitox4-decoder",
 	"name": "haivision-makitox4-decoder",
 	"shortname": "makitox4-decoder",
-	"description": "Controls Haivision Makito X4 Decoders.",
+	"description": "Controls Haivision Makito X4 Decoder.",
 	"version": "1.0.0",
 	"license": "MIT",
 	"repository": "git+https://github.com/justinlauffer/companion-module-haivision-makitox4-decoder.git",
