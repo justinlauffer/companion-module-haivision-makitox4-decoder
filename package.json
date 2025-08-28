@@ -1,7 +1,7 @@
 {
 	"name": "haivision-makitox4-decoder",
 	"version": "1.0.0",
-	"main": "main.js",
+	"main": "index.js",
 	"scripts": {
 		"format": "prettier -w .",
 		"package": "companion-module-build"
